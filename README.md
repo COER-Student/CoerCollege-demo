@@ -1,2 +1,2 @@
 # CoerCollege-demo
-<h1>my first repository</h1>
+<h2>my first repository</h2>
